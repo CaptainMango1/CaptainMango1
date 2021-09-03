@@ -1,0 +1,4 @@
+- 👋 Hi, I’m mango
+- 👀 I’m interested in anime, coding and Linux!
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: via Twitter, E-Mail

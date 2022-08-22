@@ -1,4 +1,4 @@
-<h1>Hi! I am <span style="color: #0064ff;">Lukas.</span></h1>
+# <span color="#0064ff">Hi!</span> I am Lukas.
 
 <div align="center">
   <a href="https://discord.com/users/604793540395925536"><img src="https://lanyard.cnrad.dev/api/604793540395925536" /></a>

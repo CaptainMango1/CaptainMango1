@@ -1,7 +1,8 @@
 ## Hi. I am Lukas.
 
+![](https://komarev.com/ghpvc/?username=your-github-username)
+
 <div align="center">
-  ! [](https://komarev.com/ghpvc/?username=your-github-username&color=green)
   
   <a href="https://discord.com/users/604793540395925536"><img src="https://lanyard.cnrad.dev/api/604793540395925536" /></a>
   <br>

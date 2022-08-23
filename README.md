@@ -1,5 +1,7 @@
 ## Hi. I am Lukas.
 
+- 🧪 I'm currently working on my own portfolio website.
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
   <br>

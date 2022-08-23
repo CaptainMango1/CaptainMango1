@@ -1,9 +1,12 @@
 ## Hi. I am Lukas.
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
+  </div>
+
 - 🧪 I'm currently working on my own portfolio website.
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
   <br>
   <br>
   <br>

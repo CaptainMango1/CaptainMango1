@@ -1,9 +1,9 @@
 ## Hi. I am Lukas.
 
 <div align="center">
+    <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
   <br>
   <br>
-  <img src="https://raw.githubusercontent.com/CaptainMango1/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
   </div>
 
 - 🧪 I'm currently working on my own portfolio website.

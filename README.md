@@ -7,7 +7,7 @@
   </div>
 
 - 🧪 I'm currently working on my own portfolio website.
-- 
+- 🎮 I like playing chess and videogames like VALORANT and Hearts of Iron IV
 
 <div align="center">
   <br>

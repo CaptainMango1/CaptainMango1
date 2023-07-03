@@ -21,5 +21,6 @@
   <br>
     <br>
     <br>
-    [![My Skills](https://skillicons.dev/icons?i=alpinejs, androidstudio, arduino, astro, bash, bootstrap, c. codepen, css, dart, discord, bots,express, flutter, git, github, gradle, html, idea, java, js, jquery, linkedin, linux, md, mastodon, materialui, maven, mongodb, mysql, nodejs, ps, php, postgres, postman, powershell, py, raspberrypi, react, regex, sass, stackoverflow, svg, tailwind, tauri, twitter, ts, vercel, vim, visualstudio, vscode, webpack, wordpress&perline=5)]
+    <br>
+    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,arduino,astro,bash,bootstrap,c,codepen,css,dart,discord,bots,express,flutter,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,tailwind,tauri,twitter,ts,vercel,vim,visualstudio,vscode,webpack,wordpress&perline=5" />
 </div>

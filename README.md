@@ -7,7 +7,7 @@ I'm a tech enthusiast and IT-science student with a passion for cyber security a
 
 
 ## 🛠 My Skill- and Tool-set
-<img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,arduino,astro,bash,bootstrap,c,codepen,css,dart,discord,bots,electron,express,flutter,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,tailwind,tauri,twitter,ts,vercel,vim,visualstudio,vscode,webpack,wordpress&perline=6" />
+<img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,arduino,astro,bash,bootstrap,c,codepen,css,dart,discord,bots,electron,express,flutter,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,tailwind,tauri,twitter,ts,vercel,vim,visualstudio,vscode,webpack,wordpress&perline=12" />
 
 ## Badges
 

@@ -1,9 +1,6 @@
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-# Hi, I'm Lukas! 👋
-
+<div align="center">
+<img src="./github-header-image.png">
+</div>
 
 ## 🚀 About Me
 I'm a tech enthusiast and IT-science student with a passion for cyber security and chess

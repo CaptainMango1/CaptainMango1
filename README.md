@@ -2,16 +2,15 @@
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
 
-# Hi, I'm Katherine! 👋
+# Hi, I'm Lukas! 👋
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a tech enthusiast and IT-science student with a passion for cyber security and chess
 
 
-## 🛠 Skills
-Javascript, HTML, CSS...
-
+## 🛠 Skills and Tools I use
+<img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,arduino,astro,bash,bootstrap,c,codepen,css,dart,discord,bots,electron,express,flutter,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,tailwind,tauri,twitter,ts,vercel,vim,visualstudio,vscode,webpack,wordpress&perline=6" />
 
 ## Badges
 
@@ -54,5 +53,5 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
     <br>
     <br>
     <br>
-    <img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,arduino,astro,bash,bootstrap,c,codepen,css,dart,discord,bots,electron,express,flutter,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,tailwind,tauri,twitter,ts,vercel,vim,visualstudio,vscode,webpack,wordpress&perline=6" />
+    
 </div>

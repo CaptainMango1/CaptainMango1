@@ -3,26 +3,30 @@
 </div>
 
 ## 🚀 About Me
-I'm a tech enthusiast and IT-science student with a passion for cyber security and chess
+I'm a tech enthusiast and IT-science student with a passion for cyber security and chess.
+
+I am currently working on my portfolio: https://my-portfolio-flame-five.vercel.app/
 
 
-## 🛠 My Skill- and Tool-set
-<img src="https://skillicons.dev/icons?i=alpinejs,androidstudio,arduino,astro,bash,bootstrap,c,codepen,css,dart,discord,bots,electron,express,flutter,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,tailwind,tauri,twitter,ts,vercel,vim,visualstudio,vscode,webpack,wordpress&perline=12" />
+## 🛠 My skills and tools I use
+<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,codepen,css,dart,discord,bots,express,flutter,figma,firebase,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,twitter,ts,vercel,vim,visualstudio,vscode,wordpress&perline=10" />
 
-## Badges
+## 🏆 Badges and achievments
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
+</div>
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
 
-## Roadmap
+## 🗺 Roadmap
 
-- Additional browser support
-
-- Add more integrations
+<img src="https://skillicons.dev/icons?i=alpinejs,angular,astro,aws,azure,blender,cpp,docker,electron,nextjs,rust,tailwind,tauri,threejs,vue&perline=5" />
 
 
 ## 🔗 Links
@@ -31,12 +35,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 
-
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
-  <br>
-  <br>
-  </div>
 <div align="center">
   <br>
   <br>

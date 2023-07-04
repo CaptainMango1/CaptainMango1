@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./github-header-image.png">
+<img src="./dang.png">
 </div>
 
 ## 🚀 About Me

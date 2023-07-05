@@ -17,6 +17,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
+    <img src="https://img.shields.io/github/followers/CaptainMango1"/>
 </div>
 
 

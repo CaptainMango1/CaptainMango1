@@ -8,7 +8,7 @@ I'm a tech enthusiast and IT-science student with a passion for cyber security a
 I am currently working on my portfolio: https://my-portfolio-flame-five.vercel.app/
 
 
-## 🛠 My skills and tools I use
+## 🛠 Skills + tools I use
 <img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,codepen,css,dart,discord,bots,express,flutter,figma,firebase,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,twitter,ts,vercel,vim,visualstudio,vscode,wordpress&perline=10" />
 
 ## 🏆 Badges and achievments

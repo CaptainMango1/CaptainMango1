@@ -2,7 +2,7 @@
 <img src="./dang.png">
 </div>
 
-## 🚀 About Me
+## ♟️ About Me
 I'm a tech enthusiast and IT-science student with a passion for cyber security and chess.
 
 I am currently working on my portfolio: https://my-portfolio-flame-five.vercel.app/
@@ -49,4 +49,4 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
     
 </div>
 
-### ♟️💻🛡️ Happy coding and checkmating!
+### Feel free to contact me if you need anything!

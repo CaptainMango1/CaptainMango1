@@ -1,7 +1,3 @@
-<div align="center">
-<img src="./dang.png">
-</div>
-
 ## ♟️ About Me
 I'm a tech enthusiast and IT-science student with a passion for cyber security and chess.
 

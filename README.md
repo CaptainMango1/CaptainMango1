@@ -1,5 +1,5 @@
 ## ♟️ About Me
-I'm a tech enthusiast and IT-science student with a passion for cyber security and chess.
+I'm a tech enthusiast and IT-science student with a passion for web-dev, cyber security and chess.
 
 I am currently working on my portfolio: https://my-portfolio-flame-five.vercel.app/
 

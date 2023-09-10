@@ -3,10 +3,6 @@ I'm a tech enthusiast and IT-science student with a passion for web-dev, cyber s
 
 I am currently working on my portfolio: https://my-portfolio-flame-five.vercel.app/
 
-
-## 🛠 Skills + tools I use
-<img src="https://skillicons.dev/icons?i=androidstudio,arduino,bash,bootstrap,c,codepen,css,dart,discord,bots,express,flutter,figma,firebase,git,github,gradle,html,idea,java,js,jquery,linkedin,linux,md,mastodon,materialui,maven,mongodb,mysql,nodejs,ps,php,postgres,postman,powershell,py,raspberrypi,react,regex,sass,stackoverflow,svg,twitter,ts,vercel,vim,visualstudio,vscode,wordpress&perline=10" />
-
 ## 🏆 Badges and achievments
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
@@ -15,13 +11,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
     <img src="https://komarev.com/ghpvc/?username=CaptainMango1&color=green"/>
     <img src="https://img.shields.io/github/followers/CaptainMango1"/>
 </div>
-
-
-## 🗺 Roadmap (what I want to learn)
-
-<img src="https://skillicons.dev/icons?i=alpinejs,angular,astro,aws,azure,blender,cpp,docker,electron,nextjs,rust,tailwind,tauri,threejs,vue&perline=5" />
-
-## 🗿 Stats
 
 ## 🔗 Social
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)

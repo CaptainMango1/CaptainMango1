@@ -3,6 +3,8 @@ I'm a tech enthusiast and IT-science student with a passion for web-dev, cyber s
 
 I am currently working on my portfolio: https://my-portfolio-flame-five.vercel.app/
 
+<a href="https://discord.com/users/604793540395925536"><img src="https://lanyard.cnrad.dev/api/604793540395925536" /></a>
+
 ## 🏆 Badges and achievments
 
 Add badges from somewhere like: [shields.io](https://shields.io/)
@@ -26,7 +28,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
   <br>
   <br>
   <br>
-  <a href="https://discord.com/users/604793540395925536"><img src="https://lanyard.cnrad.dev/api/604793540395925536" /></a
+  
   <br>
     <br>
     <br>
